@@ -44,8 +44,8 @@ public class MainActivity extends AppCompatActivity {
 
         total = valor + gorjeta;
 
-        viewGorjeta.setText("R$" + Double.toString(gorjeta));
-        viewTotal.setText("R$" + Double.toString(total));
+        viewGorjeta.setText("$" + Double.toString(gorjeta));
+        viewTotal.setText("$" + Double.toString(total));
     }
 
 

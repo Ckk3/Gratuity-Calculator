@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">Calculador De Gorjeta</string>
-    <string name="hint">Digite o valor da conta ex: 36.50</string>
+    <string name="app_name">Gratuity Calculator</string>
+    <string name="hint">Enter account amount ex: 36.50</string>
     <string name="seekBar">0%</string>
-    <string name="gorjeta">Gorjeta</string>
+    <string name="gorjeta">Gratuity</string>
     <string name="total">Total</string>
-    <string name="viewGorjeta">R$0</string>
-    <string name="viewTotal">R$0</string>
-    <string name="toast">Você esqueceu o valor da conta</string>
+    <string name="viewGorjeta">$0</string>
+    <string name="viewTotal">$0</string>
+    <string name="toast">You forgot the account amount</string>
 
 </resources>
